@@ -1,8 +1,10 @@
 # Tensorflow Object Detection Walkthrough
-<p>This set of Notebooks provides a complete set of code to be able to train and leverage your own custom object detection model using the Tensorflow Object Detection API. This accompanies the Tensorflow Object Detection course on my <a href="https://www.youtube.com/c/nicholasrenotte">YouTube channel</a>. 
+
+<p>This set of notebooks was obtained from youtuber Nicholas Renotte, they will be used in the future for object detection of firearms, this is the initial commit to check how this model works. <a href="https://www.youtube.com/c/nicholasrenotte">YouTube channel</a>. 
 <img src="https://i.imgur.com/H3tUyKM.png">
 
-## Steps
+## Steps to use the original repository and it's files
+
 <br />
 <b>Step 1.</b> Clone this repository: https://github.com/nicknochnack/TFODCourse
 <br/><br/>
