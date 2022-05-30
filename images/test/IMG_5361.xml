@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thumbsdown</folder>
+	<filename>IMG_5361.HEIC</filename>
+	<path>/Users/aaronschcolnik/Documents/TFODCourse_copy/Tensorflow/workspace/images/collectedimages/thumbsdown/IMG_5361.HEIC</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2316</width>
+		<height>3088</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ThumbsDown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>550</xmin>
+			<ymin>917</ymin>
+			<xmax>1395</xmax>
+			<ymax>2182</ymax>
+		</bndbox>
+	</object>
+</annotation>
