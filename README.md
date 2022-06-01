@@ -1,7 +1,7 @@
 # Tensorflow Object Detection Walkthrough
 
 <p>This set of notebooks was obtained from youtuber Nicholas Renotte, they will be used in the future for object detection of firearms, this is the initial commit to check how this model works. <a href="https://www.youtube.com/c/nicholasrenotte">YouTube channel</a>. 
-<img src="https://i.imgur.com/H3tUyKM.png">
+<img src="https://share.cleanshot.com/IzZClz">
 
 ## Steps to use the original repository and it's files
 
@@ -48,3 +48,6 @@ and open Tensorboard with the following command
 <pre>tensorboard --logdir=. </pre>
 Tensorboard will be accessible through your browser and you will be able to see metrics including mAP - mean Average Precision, and Recall.
 <br />
+
+****
+The images used in this project were obtained from this repository: https://github.com/ari-dasci/OD-WeaponDetection
