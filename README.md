@@ -1,6 +1,6 @@
 # Tensorflow Object Detection Walkthrough
 
-This set of notebooks was obtained from youtuber Nicholas Renotte, they will be used in the future for object detection of firearms, this is the initial commit to check how this model works. [Link to his Youtube Channel](https://www.youtube.com/c/nicholasrenotte)
+This set of notebooks was obtained from youtuber Nicholas Renotte, they will be used in the future for object detection of firearms, this is the initial commit to check how this model works. [Link to his Youtube Channel](/Users/aaronschcolnik/Downloads/output.png)
 
 The current code detects pistol's inside an image, just like the following picture:
 ![Screenshot](https://imgur.com/a/U7RMZCn)
